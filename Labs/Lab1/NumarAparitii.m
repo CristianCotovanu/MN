@@ -1,0 +1,1 @@
+Numar_Aparitii('input.txt','12');
